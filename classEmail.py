@@ -9,8 +9,8 @@ import smtplib
 # CLASS======================================================================================================================
 class classEmail:
 # VAIRABLES==================================================================================================================
-    emailfrom               = "lectoresdelmanga.errors@gmail.com"
-    password                = "wmppffeibjgtpgae"    
+    emailfrom               = ""
+    password                = ""    
     to                      = None
     subjet                  = None
     body                    = None
